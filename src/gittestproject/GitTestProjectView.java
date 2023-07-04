@@ -209,6 +209,7 @@ public class GitTestProjectView extends FrameView {
         // TODO add your handling code here:
         System.out.println("test");
         System.out.println("test2");
+        System.out.println("test3");
     }//GEN-LAST:event_jButton1ActionPerformed
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
